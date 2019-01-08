@@ -1,7 +1,8 @@
+#ReadMe
 
 Detta ska vara ett levande dokument som inte på något sätt ska ersätta vår interaktion. Det ska snarare ses som ett enkelt sätt att veta vad jag står för, vad vi kan och ska förvänta oss av varandra.
 
-Ledstjärnor:
+##Ledstjärnor:
 
 Individen i första rummet. Jag tror starkt på att när individer trivs i sin miljö och leds av den inre drivkraften händer magiska saker. I en roll som Agil Coach lägger jag fokus på att växa team och deras kommunikation inom organisationen, men kommer även jobba med att växa individer, det är jag övertygad om kommer leda till att de hjälper till att växa starka team, vilket leder till starka avdelningar, vilket leder till starka organisationer.
 
@@ -15,7 +16,7 @@ Jag tror starkt på transparens. Vår organisation kan ibland hindra mig från a
 
 Feedback är viktigt. Feedback är nödvändigt för min framgång. Dessa tre punkter är nödvändiga för att folk återkommande ska ge feedback: * Säkerheten bör vara hög (ingen rädsla för vedergällning) * Insatserna bör vara låga (det ska inte vara komplicerat eller svårt) * Fördelen bör vara hög (positiva resultat). Håller jag inte måttet på någon av dem, säg det till mig.
 
-Antaganden / Förväntningar:
+##Antaganden / Förväntningar:
 
 Du är väldigt duktig på ditt jobb. Du skulle inte vara här om du inte var duktig. Jag kommer ställa frågor för att antingen: a) Skaffa mig ett sammanhang. Eller b) Försöka vara ditt bollplank och din gummianka. Jag har inte för avsikt att ifrågasätta dig.
 
